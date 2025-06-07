@@ -28,7 +28,6 @@ public class Main {
             System.out.println(Aluno1.nome + " tem média: " + Aluno1.calcularMedia());
             System.out.println(Aluno2.nome + " tem média: " + Aluno2.calcularMedia());
         }
-
         System.out.println("-------------------------------------------------------");
         {
             Bond bond = new Bond();
